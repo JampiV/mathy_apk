@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "707738943058",
-    "firebase_url": "https://gamificlabeta-b884c-default-rtdb.firebaseio.com",
-    "project_id": "gamificlabeta-b884c",
-    "storage_bucket": "gamificlabeta-b884c.appspot.com"
+    "project_number": "xxxxxxxxxxxxx",
+    "firebase_url": "xxxxxxxxxxxxxxxx.firebaseio.com",
+    "project_id": "xxxxxxxxxxxxxxxxxxxxx",
+    "storage_bucket": "xxxxxxxxxxxxxxxxx.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:707738943058:android:1250f4fb80fcc4c286698b",
+        "mobilesdk_app_id": "x:xxxxxxxxxxxxxx:android:xxxxxxxxxxxxxxxxxxxxxxx",
         "android_client_info": {
-          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+          "package_name": "com.xxxxxxxxxxxxxxxxxxxxxxxxx"
         }
       },
       "oauth_client": [
         {
-          "client_id": "707738943058-q5un20avjbhtd5m894trb56l5h6c4fq7.apps.googleusercontent.com",
+          "client_id": "xxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.DefaultCompany.com.unity.template.mobile2D",
-            "certificate_hash": "6152fc407d5499dd1f72145c4c72f067ecbeb193"
+            "package_name": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "certificate_hash": "xxxxxxxxxxxxxxxxxxxx"
           }
         },
         {
-          "client_id": "707738943058-prprupjt57arfd7d6e862qlf8eukmeta.apps.googleusercontent.com",
+          "client_id": "xxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBtyanQZ3WdmckuUoCNF0-Xbkb0dkIcxeQ"
+          "current_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxx"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "707738943058-prprupjt57arfd7d6e862qlf8eukmeta.apps.googleusercontent.com",
+              "client_id": "xxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxx.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -45,35 +45,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:707738943058:android:bf6b56306512d77d86698b",
+        "mobilesdk_app_id": "1:xxxxxxxxxxxxxxxxxxx:android:xxxxxxxxxxxxxx",
         "android_client_info": {
-          "package_name": "com.pandj.mathy"
+          "package_name": "com.xxxxxxxxxxxxxxxxxxxxxxx"
         }
       },
       "oauth_client": [
         {
-          "client_id": "707738943058-gbljogqfe23cbr4g0d7lovaugvg1bg91.apps.googleusercontent.com",
+          "client_id": "xxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.pandj.mathy",
-            "certificate_hash": "6152fc407d5499dd1f72145c4c72f067ecbeb193"
+            "package_name": "com.xxxxxxxxxx.xxxxxxxx",
+            "certificate_hash": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
           }
         },
         {
-          "client_id": "707738943058-prprupjt57arfd7d6e862qlf8eukmeta.apps.googleusercontent.com",
+          "client_id": "xxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBtyanQZ3WdmckuUoCNF0-Xbkb0dkIcxeQ"
+          "current_key": "xxxxxxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxx"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "707738943058-prprupjt57arfd7d6e862qlf8eukmeta.apps.googleusercontent.com",
+              "client_id": "xxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
