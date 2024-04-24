@@ -1,0 +1,4 @@
+repository "GAMIFIC_BETA@pandj@cloud"
+  path "/"
+    br "/main"
+    co "/main"
