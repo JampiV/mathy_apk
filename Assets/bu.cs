@@ -7,7 +7,7 @@ using Firebase.Auth;
 public class bu : MonoBehaviour
 {
     // El ID de cliente de tu servidor, que puedes obtener en la consola de la API de Google
-    public const string webClientId = "707738943058-prprupjt57arfd7d6e862qlf8eukmeta.apps.googleusercontent.com";
+    public const string webClientId = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com";
 
     // El objeto GoogleSignInOptions que te permite solicitar el token de ID de Google
     private GoogleSignInConfiguration configuration;
